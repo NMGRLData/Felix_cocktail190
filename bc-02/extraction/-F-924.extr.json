@@ -1,0 +1,32 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "9858fd77139fba2207211b6f6ace5045c1b9d146",
+    "extract_device": "NMGRL Furnace",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "grain_polygons": [],
+    "load_holder": "37-hole",
+    "load_name": "LF0001",
+    "measured_response": "",
+    "pattern": "",
+    "pid": "HO,15;XP,444;TI,283;TD,47;LB,708;HB,100",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [],
+    "weight": 2.02
+}
